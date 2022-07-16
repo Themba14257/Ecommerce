@@ -9,7 +9,7 @@ function Navbar() {
   const {showCart, setShowCart, totalQuantities} = useStateContext();
   return (
     <div className='navbar-container'>
-      <p className='logo'><Link href="/">TM Headphones</Link></p>
+      <p className='logo'><Link href="/">ThembaMahlangu</Link></p>
       <button type='button' className='cart-icon' onClick={() => setShowCart(true)}>
         <AiOutlineShopping/>
         <span className='cart-item-qty'>{totalQuantities}</span>

@@ -13,7 +13,7 @@ import {useStateContext} from '../../context/StateContext';
 
     const handleBuyNow = () => {
         onAdd(product, qty);
-        // setShowCart=true;
+        setShowCart(true);
     }
   return (
     <div>

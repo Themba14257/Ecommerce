@@ -20,9 +20,9 @@ const FooterBanner = ({footerBanner:{
           <p>{smallText}</p>
           <h3>{midText}</h3>
           <p>{desc}</p>
-          <Link href={'/product/${prodct}'}>
+          {/* <Link href={'/product/${product}'}>
             <button type='button'>{buttonText}</button>
-          </Link>
+          </Link> */}
           
         </div>
         <img src="https://www.transparentpng.com/thumb/headphones/w0DNKJ-headphones-hd-photo.png" alt="headphones hd photo @transparentpng.com" className="footer-banner-image"></img>
