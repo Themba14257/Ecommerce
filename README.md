@@ -1,7 +1,12 @@
+![Screenshot (17)](https://user-images.githubusercontent.com/54105414/179390733-d275afd7-f8e3-43b2-804f-68f2c6e6f842.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/54105414/179390739-2a130487-3f4d-4fa7-b1a0-a16b13be8fb7.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/54105414/179390743-91259382-e463-4ff6-b278-90e1f1331737.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/54105414/179390746-90a37966-fe19-4da9-a222-af7a0018a3fb.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/54105414/179390747-3fb1283a-787a-4eae-b7dc-8e5906af91f0.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/54105414/179390751-3bba77e2-c185-4c04-9bdb-ccd87a35f14b.png)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-
 First, run the development server:
 
 ```bash
